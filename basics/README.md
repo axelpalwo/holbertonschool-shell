@@ -8,3 +8,4 @@
 7-movethatfile moves a file named betty from a directory to another one previously created
 8-firstdelete deletes betty from the directory it was saved before
 9-firstdirdeletion deletes a directory that is in the tmp directory
+10-back changes the directory to the previous one
