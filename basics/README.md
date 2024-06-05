@@ -10,3 +10,4 @@
 9-firstdirdeletion deletes a directory that is in the tmp directory
 10-back changes the directory to the previous one
 11-lists lists all files in the current directory and in /boot
+12-file_type prints the type of files
