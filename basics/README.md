@@ -9,3 +9,4 @@
 8-firstdelete deletes betty from the directory it was saved before
 9-firstdirdeletion deletes a directory that is in the tmp directory
 10-back changes the directory to the previous one
+11-lists lists all files in the current directory and in /boot
