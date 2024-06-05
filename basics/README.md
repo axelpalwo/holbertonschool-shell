@@ -2,4 +2,5 @@
 1-listit is a script that displays the contnet list of your current directory using the Unix command LS
 2-bring_me_home is a script that sends the user to their home folder using the Unix command CD plus /home as direction
 3-listfiles is a script that lists all the files with extends information about them
-4-listmorefiles is a script that listt all the files including the hidden ones
+4-listmorefiles is a script that lists all the files including the hidden ones
+5-listfilesdigitonly is a script that lists all the files in a long format, with user and group IDS displayed numerically and also hidden files
