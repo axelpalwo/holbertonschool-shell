@@ -4,3 +4,5 @@
 3-listfiles is a script that lists all the files with extends information about them
 4-listmorefiles is a script that lists all the files including the hidden ones
 5-listfilesdigitonly is a script that lists all the files in a long format, with user and group IDS displayed numerically and also hidden files
+6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory
+
