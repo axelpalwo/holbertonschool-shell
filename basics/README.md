@@ -11,3 +11,4 @@
 10-back changes the directory to the previous one
 11-lists lists all files in the current directory and in /boot
 12-file_type prints the type of files
+13-Symbolic_link creates a link that leads to the current directory indicated
