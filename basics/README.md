@@ -15,4 +15,4 @@
 14-copy_html copies all HTML files from the current working directory and moves them to the parent
 15-lets_move moves all the files that begin with uppercase
 16-clean_emacs is a script that deletes all files in the current working directory tat ends with the character ~ (EMACS)
-
+17-tree is a script that creates three directories
