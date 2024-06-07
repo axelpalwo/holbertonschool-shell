@@ -1,0 +1,2 @@
+#!/bin/bash
+read -p "Add a list of words: " list | sort list 
